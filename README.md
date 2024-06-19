@@ -5,3 +5,4 @@ These notes on frontend are based on what I've learned from [roadmap.sh](https:/
 >*Always write your code as if the person who will maintain it is a dangerous psychopath who knows who you are and where you live.*
 
 ### Study Notes
+[Internet](./internet.md)
