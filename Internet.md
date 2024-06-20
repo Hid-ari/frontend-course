@@ -2,9 +2,11 @@
 
 The Internet is a global network of computers connected to each other which communicate through a standardized set of protocols.
 
+A network is a group of computers or other devices which are connected to eachother. For example, you at your home might have a network of computers and devices. Your friend living next door might have a similar network of devices. Their neighbor might have a similar network of devices. All these networks when connected together form the internet.
+
 > The internet is a network of networks.
 
-### When we going to talk about a new subject it's good to know its history.
+### When we going to talk about a new subject it's good to know about its history.
 
 - 1960s: Beginnings and ARPANET - The concept of a global communication network that could continue to operate even in the aftermath of a nuclear war began in the 1960s. In 1969, the Advanced Research Projects Agency Network (ARPANET), funded by the U.S. Department of Defense, connected four universities: UCLA, Stanford, UC Santa Barbara, and the University of Utah, marking the birth of what would eventually become the Internet.
 
@@ -17,3 +19,4 @@ The Internet is a global network of computers connected to each other which comm
 - 21st Century: Expansion and Globalization - The advent of new technologies such as fiber optics and advances in telecommunications have enabled massive expansion of the Internet. The adoption of mobile devices and the development of social media have further transformed how we interact online.
 
 - Current Era: Internet of Things and Beyond - Today, the Internet connects not just computers and smartphones, but a wide array of devices through the Internet of Things (IoT). This has opened up new dimensions of interconnectivity and raised new challenges in terms of security and privacy.
+
