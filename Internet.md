@@ -1,4 +1,7 @@
 ## Introduction to the Internet
+
+The Internet is a global network of computers connected to each other which communicate through a standardized set of protocols.
+
 > The internet is a network of networks.
 
 ### When we going to talk about a new subject it's good to know its history.
