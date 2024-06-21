@@ -64,7 +64,7 @@ The functioning of networks, including the internet, relies on a variety of devi
 
 ## Devices And Cables
 
-# Key Devices:
+### Key Devices:
 
 1. **Routers:**
    - **Function:** Direct traffic between different networks, ensuring that data packets reach their correct destination.
@@ -90,7 +90,7 @@ The functioning of networks, including the internet, relies on a variety of devi
    - **Function:** Monitor and control incoming and outgoing network traffic based on predetermined security rules, providing a barrier between a trusted internal network and untrusted external networks.
    - **Usage:** Essential for network security, found in both hardware and software forms.
 
-# Key Cables:
+### Key Cables:
 
 1. **Ethernet Cables (Cat5, Cat5e, Cat6, Cat6a, Cat7):**
    - **Function:** Used for wired connections between network devices such as routers, switches, and computers.
@@ -108,7 +108,7 @@ The functioning of networks, including the internet, relies on a variety of devi
    - **Function:** Used for DSL internet connections and traditional telephone services.
    - **Usage:** Connects modems and telephones to telephone lines.
 
-# How They Work Together:
+### How They Work Together:
 
 - **Home Network Example:** 
   - A **modem** connects to the internet via a coaxial or telephone cable, converting the signal for use by home devices.
