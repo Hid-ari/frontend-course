@@ -1,6 +1,6 @@
 ## Introduction to the Internet
 
-The Internet is a global network of computers connected to each other which communicate through a standardized set of protocols.
+The internet works by connecting devices and computer systems together using standardized protocols, such as IP and TCP.
 
 A network is a group of computers or other devices which are connected to eachother. For example, you at your home might have a network of computers and devices. Your friend living next door might have a similar network of devices. Their neighbor might have a similar network of devices. All these networks when connected together form the internet.
 
@@ -42,6 +42,12 @@ A network is a group of computers or other devices which are connected to eachot
 
 - SSL/TLS: The Secure Sockets Layer and Transport Layer Security protocols are used to provide secure communication over the internet.
 
+The Internet is a global network of interconnected computers that facilitates communication and information exchange among users worldwide. It serves as an information technology infrastructure offering a wide array of services and resources accessible via various networking technologies.
 
+The Internet comprises millions of private, public, academic, business, and government networks interconnected using standardized network technologies.
+It employs a set of communication protocols known as TCP/IP (Transmission Control Protocol/Internet Protocol), which enable data transmission between devices.
 
-The internet works by connecting devices and computer systems together using standardized protocols, such as IP and TCP.
+Each device on the Internet has a unique IP address that identifies it. Routers direct data packets from the source to the destination using these addresses.
+
+The Internet does not have a central controlling authority. Instead, it is a distributed network where multiple organizations and independent entities collaborate to maintain its operations.
+
