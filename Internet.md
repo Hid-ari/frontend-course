@@ -20,3 +20,4 @@ A network is a group of computers or other devices which are connected to eachot
 
 - Current Era: Internet of Things and Beyond - Today, the Internet connects not just computers and smartphones, but a wide array of devices through the Internet of Things (IoT). This has opened up new dimensions of interconnectivity and raised new challenges in terms of security and privacy.
 
+## How does the Internet Work?
